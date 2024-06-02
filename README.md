@@ -14,7 +14,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 The python LSP may require this package to be installed
 ```bash
-sudo apt install python3.10-venv
+sudo apt install python3.12-venv
 ```
 
 3. Clone this repo to  `~/.config/nvim` 
