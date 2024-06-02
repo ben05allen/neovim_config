@@ -20,4 +20,9 @@ The python LSP may require this package to be installed (assuming Python 3.12)
 sudo apt install python3.12-venv
 ```
 
+Make sure there's a C compiler (for treesitter)
+```bash
+sudo apt install build-essential
+```
+
 3. Clone this repo to  `~/.config/nvim` 
