@@ -7,7 +7,7 @@ end)
 
 lsp.ensure_installed({
   -- Replace these with whatever servers you want to install
-  'pylsp',
+  'ruff-lsp',
   'tsserver',
   'eslint',
   'rust_analyzer'
